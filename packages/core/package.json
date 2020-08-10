@@ -1,0 +1,62 @@
+{
+    "name": "@nirikshak/core",
+    "version": "0.0.0",
+    "description": "The core functionality for nirikshak",
+    "keywords": [
+        "nirikshak",
+        "API",
+        "REST",
+        "QA",
+        "testing"
+    ],
+    "author": "Yash Mahalwal <yashmahalwal@gmail.com>",
+    "homepage": "https://github.com/yashmahalwal/nirikshak/tree/master/packages/core#readme",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "files": [
+        "lib"
+    ],
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yashmahalwal/nirikshak.git"
+    },
+    "scripts": {
+        "build": "rm -rf lib && tsc -p tsconfig.build.json",
+        "test": "cd ../.. && npm run test:core",
+        "test:update": "cd ../.. && npm run test:core -- -u",
+        "watch": "rm -rf lib && tsc --watch -p tsconfig.watch.json",
+        "build:dev": "rm -rf lib && tsc -p tsconfig.watch.json",
+        "lint": "cd ../.. && npm run lint:core",
+        "format": "cd ../.. && npm run format:core",
+        "commit": "cd ../.. && npm run commit"
+    },
+    "bugs": {
+        "url": "https://github.com/yashmahalwal/nirikshak/issues"
+    },
+    "devDependencies": {
+        "@types/faker": "^4.1.11",
+        "@types/lodash": "^4.14.150",
+        "@types/supertest": "^2.0.9",
+        "get-port": "^5.1.1",
+        "typescript": "^3.8.3"
+    },
+    "dependencies": {
+        "-": "0.0.1",
+        "D": "^1.0.0",
+        "faker": "^4.1.0",
+        "graph-data-structure": "^1.12.0",
+        "lodash": "^4.17.15",
+        "supertest": "^4.0.2"
+    },
+    "peerDependencies": {
+        "faker": "^4.1.0",
+        "supertest": "^4.0.2"
+    }
+}

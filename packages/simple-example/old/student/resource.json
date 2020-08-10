@@ -1,0 +1,41 @@
+{
+    "id": "faker:random.uuid",
+    "branch": {
+        "types": ["CSE", "ECE", "MECH", "ELECTRICAL"]
+    },
+    "grade": "custom:grade",
+    "addresses": {
+        "field": {
+            "zipCode": {
+                "function": "faker:address.zipCode",
+                "args": ["#####-###"]
+            },
+            "streetName": "faker:address.streetName"
+        },
+        "plural": true,
+        "optional": true
+    },
+    "schooling": {
+        "fields": [
+            {
+                "CBSE": {
+                    "function": "faker:random.number",
+                    "args": [{ "min": 0, "max": 10, "precision": 0.01 }]
+                }
+            },
+            {
+                "stateBoard": {
+                    "function": "faker:random.number",
+                    "args": [{ "min": 0, "max": 100, "precision": 0.01 }]
+                }
+            }
+        ]
+    },
+    "collegeGPA": {
+        "type": {
+            "function": "faker:random.number",
+            "args": [{ "min": 0, "max": 10, "precision": 0.01 }]
+        },
+        "nullable": true
+    }
+}

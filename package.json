@@ -1,0 +1,77 @@
+{
+    "name": "nirikshak",
+    "version": "1.0.0",
+    "description": "Test your REST APIs",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --projects packages/core packages/cli packages/reporter",
+        "coverage-badge": "npm run test && jest-coverage-badges output ./badges",
+        "test:reporter": "jest --projects packages/reporter",
+        "test:cli": "jest --projects packages/cli",
+        "test:core": "jest --projects packages/core",
+        "test:update": "jest -u",
+        "commit": "git-cz",
+        "lint:reporter": "eslint \"packages/reporter/src/**/*.ts\" \"packages/reporter/tests/**/*.ts\"",
+        "format:reporter": "prettier --write \"packages/reporter/{src,tests}/**/*.ts\"",
+        "lint:cli": "eslint \"packages/cli/src/**/*.ts\" \"packages/cli/tests/**/*.ts\"",
+        "format:cli": "prettier --write \"packages/cli/{src,tests}/**/*.ts\"",
+        "lint:core": "eslint \"packages/core/src/**/*.ts\" \"packages/core/tests/**/*.ts\"",
+        "format:core": "prettier --write \"packages/core/src/**/*.ts\"",
+        "format": "lerna run format --parallel",
+        "build": "lerna run build --parallel",
+        "lint": "lerna run lint --parallel",
+        "prepare:master": "npm run lint && npm run format && npm run test && npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yashmahalwal/nirikshak.git"
+    },
+    "keywords": [
+        "REST",
+        "Testing",
+        "QA",
+        "API",
+        "nirikshak"
+    ],
+    "author": "Yash Mahalwal <yashmahalwal@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yashmahalwal/nirikshak/issues"
+    },
+    "homepage": "https://github.com/yashmahalwal/nirikshak#readme",
+    "husky": {
+        "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+        }
+    },
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "@babel/plugin-proposal-export-namespace-from": "^7.10.1",
+        "@babel/preset-env": "^7.9.5",
+        "@babel/preset-typescript": "^7.9.0",
+        "@commitlint/cli": "^8.3.5",
+        "@commitlint/config-conventional": "^8.3.4",
+        "@types/faker": "^4.1.12",
+        "@types/jest": "^25.2.1",
+        "@typescript-eslint/eslint-plugin": "^2.29.0",
+        "@typescript-eslint/parser": "^2.29.0",
+        "babel-jest": "^25.4.0",
+        "commitizen": "^4.0.4",
+        "conventional-changelog-cli": "^2.0.34",
+        "cz-conventional-changelog": "^3.1.0",
+        "eslint": "^6.8.0",
+        "eslint-plugin-import": "^2.20.2",
+        "husky": "^4.2.5",
+        "jest": "^25.4.0",
+        "jest-coverage-badges": "^1.1.2",
+        "lerna": "^3.20.2",
+        "prettier": "^2.0.5",
+        "typescript": "^3.8.3"
+    },
+    "dependencies": {},
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    }
+}

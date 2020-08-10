@@ -1,0 +1,1214 @@
+[
+    {
+        "name": "resource",
+        "children": [
+            {
+                "name": "student",
+                "children": [
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 159 },
+                            { "name": "2 ", "value": 159 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "POSITIVE", "value": 164 },
+                            { "name": "NEGATIVE", "value": 128 },
+                            { "name": "DESTRUCTIVE", "value": 26 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v1",
+                                "value": 32
+                            },
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 184
+                            },
+                            { "name": "/Student", "value": 70 },
+                            {
+                                "name": "/Student/{resource:id}/v4",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 200,500 got 201",
+                                "value": 32
+                            },
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 102
+                            },
+                            {
+                                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 26
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404,409 got 500",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 201 got 200",
+                                "value": 30
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 200",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "GET-1", "value": 32 },
+                            { "name": "DELETE-0", "value": 34 },
+                            { "name": "POST-0", "value": 70 },
+                            { "name": "PATCH-0", "value": 42 },
+                            { "name": "PUT-1", "value": 38 },
+                            { "name": "GET-0", "value": 32 },
+                            { "name": "DELETE-1", "value": 32 },
+                            { "name": "POST-1", "value": 38 }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "iteration",
+        "children": [
+            {
+                "name": "1 ",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 159 }]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "POSITIVE", "value": 82 },
+                            { "name": "NEGATIVE", "value": 64 },
+                            { "name": "DESTRUCTIVE", "value": 13 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v1",
+                                "value": 16
+                            },
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 92
+                            },
+                            { "name": "/Student", "value": 35 },
+                            {
+                                "name": "/Student/{resource:id}/v4",
+                                "value": 16
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 200,500 got 201",
+                                "value": 16
+                            },
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 51
+                            },
+                            {
+                                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                                "value": 16
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 13
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 400",
+                                "value": 16
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404,409 got 500",
+                                "value": 16
+                            },
+                            {
+                                "name": "Status mismatch: Expected 201 got 200",
+                                "value": 15
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 200",
+                                "value": 16
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "GET-1", "value": 16 },
+                            { "name": "DELETE-0", "value": 17 },
+                            { "name": "POST-0", "value": 35 },
+                            { "name": "PATCH-0", "value": 21 },
+                            { "name": "PUT-1", "value": 19 },
+                            { "name": "GET-0", "value": 16 },
+                            { "name": "DELETE-1", "value": 16 },
+                            { "name": "POST-1", "value": 19 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "2 ",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 159 }]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "POSITIVE", "value": 82 },
+                            { "name": "NEGATIVE", "value": 64 },
+                            { "name": "DESTRUCTIVE", "value": 13 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v1",
+                                "value": 16
+                            },
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 92
+                            },
+                            { "name": "/Student", "value": 35 },
+                            {
+                                "name": "/Student/{resource:id}/v4",
+                                "value": 16
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 200,500 got 201",
+                                "value": 16
+                            },
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 51
+                            },
+                            {
+                                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                                "value": 16
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 13
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 400",
+                                "value": 16
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404,409 got 500",
+                                "value": 16
+                            },
+                            {
+                                "name": "Status mismatch: Expected 201 got 200",
+                                "value": 15
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 200",
+                                "value": 16
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "GET-1", "value": 16 },
+                            { "name": "DELETE-0", "value": 17 },
+                            { "name": "POST-0", "value": 35 },
+                            { "name": "PATCH-0", "value": 21 },
+                            { "name": "PUT-1", "value": 19 },
+                            { "name": "GET-0", "value": 16 },
+                            { "name": "DELETE-1", "value": 16 },
+                            { "name": "POST-1", "value": 19 }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "case",
+        "children": [
+            {
+                "name": "POSITIVE",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 164 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 82 },
+                            { "name": "2 ", "value": 82 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v1",
+                                "value": 32
+                            },
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 102
+                            },
+                            { "name": "/Student", "value": 30 }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 200,500 got 201",
+                                "value": 32
+                            },
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 102
+                            },
+                            {
+                                "name": "Status mismatch: Expected 201 got 200",
+                                "value": 30
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "GET-1", "value": 32 },
+                            { "name": "DELETE-0", "value": 34 },
+                            { "name": "PUT-1", "value": 38 },
+                            { "name": "POST-0", "value": 30 },
+                            { "name": "POST-1", "value": 30 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "NEGATIVE",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 128 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 64 },
+                            { "name": "2 ", "value": 64 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            { "name": "/Student", "value": 32 },
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 64
+                            },
+                            {
+                                "name": "/Student/{resource:id}/v4",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404,409 got 500",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 200",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "POST-0", "value": 32 },
+                            { "name": "GET-0", "value": 32 },
+                            { "name": "DELETE-1", "value": 32 },
+                            { "name": "PATCH-0", "value": 32 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "DESTRUCTIVE",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 26 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 13 },
+                            { "name": "2 ", "value": 13 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 18
+                            },
+                            { "name": "/Student", "value": 8 }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 26
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "PATCH-0", "value": 10 },
+                            { "name": "POST-0", "value": 8 },
+                            { "name": "POST-1", "value": 8 }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "url",
+        "children": [
+            {
+                "name": "/Student/{resource:id}/v1",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 200,500 got 201",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "GET-1", "value": 32 }]
+                    }
+                ]
+            },
+            {
+                "name": "/Student/{resource:id}",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 184 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 92 },
+                            { "name": "2 ", "value": 92 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "POSITIVE", "value": 102 },
+                            { "name": "DESTRUCTIVE", "value": 18 },
+                            { "name": "NEGATIVE", "value": 64 }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 72
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 18
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Status mismatch: Expected 201 got 200",
+                                "value": 30
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 200",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "DELETE-0", "value": 34 },
+                            { "name": "PATCH-0", "value": 42 },
+                            { "name": "PUT-1", "value": 38 },
+                            { "name": "GET-0", "value": 32 },
+                            { "name": "POST-1", "value": 38 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "/Student",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 70 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 35 },
+                            { "name": "2 ", "value": 35 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "NEGATIVE", "value": 32 },
+                            { "name": "POSITIVE", "value": 30 },
+                            { "name": "DESTRUCTIVE", "value": 8 }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 30
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "POST-0", "value": 70 }]
+                    }
+                ]
+            },
+            {
+                "name": "/Student/{resource:id}/v4",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 404,409 got 500",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "DELETE-1", "value": 32 }]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "error-message",
+        "children": [
+            {
+                "name": "Status mismatch: Expected 200,500 got 201",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v1",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "GET-1", "value": 32 }]
+                    }
+                ]
+            },
+            {
+                "name": "Response bodies did not match",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 102 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 51 },
+                            { "name": "2 ", "value": 51 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 102 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 72
+                            },
+                            { "name": "/Student", "value": 30 }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "DELETE-0", "value": 34 },
+                            { "name": "PUT-1", "value": 38 },
+                            { "name": "POST-0", "value": 30 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [{ "name": "/Student", "value": 32 }]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "POST-0", "value": 32 }]
+                    }
+                ]
+            },
+            {
+                "name": "Status mismatch: Expected 400 got 500",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 26 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 13 },
+                            { "name": "2 ", "value": 13 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "DESTRUCTIVE", "value": 26 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 18
+                            },
+                            { "name": "/Student", "value": 8 }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [
+                            { "name": "PATCH-0", "value": 10 },
+                            { "name": "POST-0", "value": 8 },
+                            { "name": "POST-1", "value": 8 }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Status mismatch: Expected 404 got 400",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "GET-0", "value": 32 }]
+                    }
+                ]
+            },
+            {
+                "name": "Status mismatch: Expected 404,409 got 500",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v4",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "DELETE-1", "value": 32 }]
+                    }
+                ]
+            },
+            {
+                "name": "Status mismatch: Expected 201 got 200",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 30 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 15 },
+                            { "name": "2 ", "value": 15 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 30 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 30
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "POST-1", "value": 30 }]
+                    }
+                ]
+            },
+            {
+                "name": "Status mismatch: Expected 404 got 200",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "method",
+                        "children": [{ "name": "PATCH-0", "value": 32 }]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "method",
+        "children": [
+            {
+                "name": "GET-1",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v1",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 200,500 got 201",
+                                "value": 32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "DELETE-0",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 34 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 17 },
+                            { "name": "2 ", "value": 17 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 34 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "POST-0",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 70 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 35 },
+                            { "name": "2 ", "value": 35 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "NEGATIVE", "value": 32 },
+                            { "name": "POSITIVE", "value": 30 },
+                            { "name": "DESTRUCTIVE", "value": 8 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [{ "name": "/Student", "value": 70 }]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 409,200,201,202,210 got 400",
+                                "value": 32
+                            },
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 30
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "PATCH-0",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 42 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 21 },
+                            { "name": "2 ", "value": 21 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "DESTRUCTIVE", "value": 10 },
+                            { "name": "NEGATIVE", "value": 32 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 42
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 10
+                            },
+                            {
+                                "name": "Status mismatch: Expected 404 got 200",
+                                "value": 32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "PUT-1",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 38 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 19 },
+                            { "name": "2 ", "value": 19 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "POSITIVE", "value": 38 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 38
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Response bodies did not match",
+                                "value": 38
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "GET-0",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 404 got 400",
+                                "value": 32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "DELETE-1",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 32 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 16 },
+                            { "name": "2 ", "value": 16 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [{ "name": "NEGATIVE", "value": 32 }]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}/v4",
+                                "value": 32
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 404,409 got 500",
+                                "value": 32
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "POST-1",
+                "children": [
+                    {
+                        "name": "resource",
+                        "children": [{ "name": "student", "value": 38 }]
+                    },
+                    {
+                        "name": "iteration",
+                        "children": [
+                            { "name": "1 ", "value": 19 },
+                            { "name": "2 ", "value": 19 }
+                        ]
+                    },
+                    {
+                        "name": "case",
+                        "children": [
+                            { "name": "POSITIVE", "value": 30 },
+                            { "name": "DESTRUCTIVE", "value": 8 }
+                        ]
+                    },
+                    {
+                        "name": "url",
+                        "children": [
+                            {
+                                "name": "/Student/{resource:id}",
+                                "value": 38
+                            }
+                        ]
+                    },
+                    {
+                        "name": "error-message",
+                        "children": [
+                            {
+                                "name": "Status mismatch: Expected 201 got 200",
+                                "value": 30
+                            },
+                            {
+                                "name": "Status mismatch: Expected 400 got 500",
+                                "value": 8
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

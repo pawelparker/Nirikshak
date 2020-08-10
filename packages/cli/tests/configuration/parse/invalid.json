@@ -1,0 +1,9 @@
+{
+    "resources": [
+        "student",
+        {
+            "dir": "faculty",
+            "name": "useful"
+        }
+    ]
+}

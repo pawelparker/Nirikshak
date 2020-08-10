@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Validate invalid config Validate invalid config 0 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 1 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 2 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 3 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 4 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 5 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 6 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 7 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 8 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 9 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 10 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 11 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 12 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 13 1`] = `"Error parsing configuration: data should have required property 'app'"`;
+
+exports[`Validate invalid config Validate invalid config 14 1`] = `"Error parsing configuration: data should have required property 'dir'"`;
+
+exports[`Validate invalid config Validate invalid config 15 1`] = `"Error parsing configuration: data should have required property 'resources'"`;
+
+exports[`Validate invalid config Validate invalid config 16 1`] = `"Error parsing configuration: data should have required property 'dir'"`;
+
+exports[`Validate invalid config Validate invalid config 17 1`] = `"Error parsing configuration: data.dir should be string"`;
+
+exports[`Validate invalid config Validate invalid config 18 1`] = `"Error parsing configuration: data.resources should be array"`;
+
+exports[`Validate invalid config Validate invalid config 19 1`] = `"Error parsing configuration: data.resources should NOT have fewer than 1 items"`;
+
+exports[`Validate invalid config Validate invalid config 20 1`] = `"Error parsing configuration: data.resources[0] should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 21 1`] = `"Error parsing configuration: data.resources[0].name should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 22 1`] = `"Error parsing configuration: data.resources[0] should have required property 'dir'"`;
+
+exports[`Validate invalid config Validate invalid config 23 1`] = `"Error parsing configuration: data.resources[0].dir should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 24 1`] = `"Error parsing configuration: data.resources[1] should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 25 1`] = `"Error parsing configuration: data.resources[0] should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 26 1`] = `"Error parsing configuration: data.resources[0] should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 27 1`] = `"Error parsing configuration: data.resources[0] should NOT be shorter than 1 characters"`;
+
+exports[`Validate invalid config Validate invalid config 28 1`] = `"Duplicate resource names in configuration"`;
+
+exports[`Validate invalid config Validate invalid config 29 1`] = `"Duplicate resource directories in configuration"`;
+
+exports[`Validate invalid config Validate invalid config 30 1`] = `"Error parsing configuration: data.jestArgs[0] should be string"`;
+
+exports[`Validate invalid config Validate invalid config 31 1`] = `"Error parsing configuration: data.jestArgs should be array"`;

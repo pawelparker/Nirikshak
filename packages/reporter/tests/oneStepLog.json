@@ -1,0 +1,320 @@
+{
+    "numFailedTestSuites": 1,
+    "numFailedTests": 12,
+    "numPassedTestSuites": 0,
+    "numPassedTests": 9,
+    "numPendingTestSuites": 0,
+    "numPendingTests": 0,
+    "numRuntimeErrorTestSuites": 0,
+    "numTodoTests": 0,
+    "numTotalTestSuites": 1,
+    "numTotalTests": 21,
+    "openHandles": [],
+    "snapshot": {
+        "added": 0,
+        "didUpdate": false,
+        "failure": false,
+        "filesAdded": 0,
+        "filesRemoved": 0,
+        "filesRemovedList": [],
+        "filesUnmatched": 0,
+        "filesUpdated": 0,
+        "matched": 0,
+        "total": 0,
+        "unchecked": 0,
+        "uncheckedKeysByFile": [],
+        "unmatched": 0,
+        "updated": 0
+    },
+    "startTime": 1591856974182,
+    "success": false,
+    "testResults": [
+        {
+            "assertionResults": [
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "GET;;0;;/Student/{resource:id};;POSITIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 GET;;0;;/Student/{resource:id};;POSITIVE 0::GET;;0;;/Student/{resource:id};;POSITIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::GET;;0;;/Student/{resource:id};;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "GET;;0;;/Student/{resource:id};;NEGATIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 404 got 400\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 GET;;0;;/Student/{resource:id};;NEGATIVE 0::GET;;0;;/Student/{resource:id};;NEGATIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::GET;;0;;/Student/{resource:id};;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "GET;;1;;/Student/{resource:id}/v1;;POSITIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 200,500 got 201\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 GET;;1;;/Student/{resource:id}/v1;;POSITIVE 0::GET;;1;;/Student/{resource:id}/v1;;POSITIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::GET;;1;;/Student/{resource:id}/v1;;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "GET;;1;;/Student/{resource:id}/v1;;NEGATIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 GET;;1;;/Student/{resource:id}/v1;;NEGATIVE 0::GET;;1;;/Student/{resource:id}/v1;;NEGATIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::GET;;1;;/Student/{resource:id}/v1;;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "DELETE;;0;;/Student/{resource:id};;POSITIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Response bodies did not match\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:149:48)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 DELETE;;0;;/Student/{resource:id};;POSITIVE 0::DELETE;;0;;/Student/{resource:id};;POSITIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::DELETE;;0;;/Student/{resource:id};;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "DELETE;;0;;/Student/{resource:id};;NEGATIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 DELETE;;0;;/Student/{resource:id};;NEGATIVE 0::DELETE;;0;;/Student/{resource:id};;NEGATIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::DELETE;;0;;/Student/{resource:id};;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "DELETE;;1;;/Student/{resource:id}/v4;;POSITIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 DELETE;;1;;/Student/{resource:id}/v4;;POSITIVE 0::DELETE;;1;;/Student/{resource:id}/v4;;POSITIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::DELETE;;1;;/Student/{resource:id}/v4;;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "DELETE;;1;;/Student/{resource:id}/v4;;NEGATIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 404,409 got 500\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 DELETE;;1;;/Student/{resource:id}/v4;;NEGATIVE 0::DELETE;;1;;/Student/{resource:id}/v4;;NEGATIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::DELETE;;1;;/Student/{resource:id}/v4;;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "POST;;0;;/Student;;POSITIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Response bodies did not match\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:149:48)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 POST;;0;;/Student;;POSITIVE 0::POST;;0;;/Student;;POSITIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::POST;;0;;/Student;;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "POST;;0;;/Student;;NEGATIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 409,200,201,202,210 got 400\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 POST;;0;;/Student;;NEGATIVE 0::POST;;0;;/Student;;NEGATIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::POST;;0;;/Student;;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "POST;;0;;/Student;;DESTRUCTIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 400 got 500\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 POST;;0;;/Student;;DESTRUCTIVE 0::POST;;0;;/Student;;DESTRUCTIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::POST;;0;;/Student;;DESTRUCTIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "POST;;1;;/Student/{resource:id};;POSITIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 201 got 200\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 POST;;1;;/Student/{resource:id};;POSITIVE 0::POST;;1;;/Student/{resource:id};;POSITIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::POST;;1;;/Student/{resource:id};;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "POST;;1;;/Student/{resource:id};;NEGATIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 POST;;1;;/Student/{resource:id};;NEGATIVE 0::POST;;1;;/Student/{resource:id};;NEGATIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::POST;;1;;/Student/{resource:id};;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "POST;;1;;/Student/{resource:id};;DESTRUCTIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 400 got 500\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 POST;;1;;/Student/{resource:id};;DESTRUCTIVE 0::POST;;1;;/Student/{resource:id};;DESTRUCTIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::POST;;1;;/Student/{resource:id};;DESTRUCTIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PATCH;;0;;/Student/{resource:id};;POSITIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 PATCH;;0;;/Student/{resource:id};;POSITIVE 0::PATCH;;0;;/Student/{resource:id};;POSITIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::PATCH;;0;;/Student/{resource:id};;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PATCH;;0;;/Student/{resource:id};;NEGATIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 404 got 200\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 PATCH;;0;;/Student/{resource:id};;NEGATIVE 0::PATCH;;0;;/Student/{resource:id};;NEGATIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::PATCH;;0;;/Student/{resource:id};;NEGATIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PATCH;;0;;/Student/{resource:id};;DESTRUCTIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Status mismatch: Expected 400 got 500\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:117:53)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 PATCH;;0;;/Student/{resource:id};;DESTRUCTIVE 0::PATCH;;0;;/Student/{resource:id};;DESTRUCTIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::PATCH;;0;;/Student/{resource:id};;DESTRUCTIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PUT;;0;;/Student;;POSITIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 PUT;;0;;/Student;;POSITIVE 0::PUT;;0;;/Student;;POSITIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::PUT;;0;;/Student;;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PUT;;0;;/Student;;DESTRUCTIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 PUT;;0;;/Student;;DESTRUCTIVE 0::PUT;;0;;/Student;;DESTRUCTIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::PUT;;0;;/Student;;DESTRUCTIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PUT;;1;;/Student/{resource:id};;POSITIVE"
+                    ],
+                    "failureMessages": [
+                        "Error: Response bodies did not match\n    at Object.<anonymous> (/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts:149:48)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+                    ],
+                    "fullName": "student 1 PUT;;1;;/Student/{resource:id};;POSITIVE 0::PUT;;1;;/Student/{resource:id};;POSITIVE",
+                    "location": null,
+                    "status": "failed",
+                    "title": "0::PUT;;1;;/Student/{resource:id};;POSITIVE"
+                },
+                {
+                    "ancestorTitles": [
+                        "student",
+                        "1",
+                        "PUT;;1;;/Student/{resource:id};;DESTRUCTIVE"
+                    ],
+                    "failureMessages": [],
+                    "fullName": "student 1 PUT;;1;;/Student/{resource:id};;DESTRUCTIVE 0::PUT;;1;;/Student/{resource:id};;DESTRUCTIVE",
+                    "location": null,
+                    "status": "passed",
+                    "title": "0::PUT;;1;;/Student/{resource:id};;DESTRUCTIVE"
+                }
+            ],
+            "endTime": 1591856976805,
+            "message": "  ● student › 1 › GET;;0;;/Student/{resource:id};;NEGATIVE › 0::GET;;0;;/Student/{resource:id};;NEGATIVE\n\n    Status mismatch: Expected 404 got 400\n\n  ● student › 1 › GET;;1;;/Student/{resource:id}/v1;;POSITIVE › 0::GET;;1;;/Student/{resource:id}/v1;;POSITIVE\n\n    Status mismatch: Expected 200,500 got 201\n\n  ● student › 1 › DELETE;;0;;/Student/{resource:id};;POSITIVE › 0::DELETE;;0;;/Student/{resource:id};;POSITIVE\n\n    Response bodies did not match\n\n  ● student › 1 › DELETE;;1;;/Student/{resource:id}/v4;;NEGATIVE › 0::DELETE;;1;;/Student/{resource:id}/v4;;NEGATIVE\n\n    Status mismatch: Expected 404,409 got 500\n\n  ● student › 1 › POST;;0;;/Student;;POSITIVE › 0::POST;;0;;/Student;;POSITIVE\n\n    Response bodies did not match\n\n  ● student › 1 › POST;;0;;/Student;;NEGATIVE › 0::POST;;0;;/Student;;NEGATIVE\n\n    Status mismatch: Expected 409,200,201,202,210 got 400\n\n  ● student › 1 › POST;;0;;/Student;;DESTRUCTIVE › 0::POST;;0;;/Student;;DESTRUCTIVE\n\n    Status mismatch: Expected 400 got 500\n\n  ● student › 1 › POST;;1;;/Student/{resource:id};;POSITIVE › 0::POST;;1;;/Student/{resource:id};;POSITIVE\n\n    Status mismatch: Expected 201 got 200\n\n  ● student › 1 › POST;;1;;/Student/{resource:id};;DESTRUCTIVE › 0::POST;;1;;/Student/{resource:id};;DESTRUCTIVE\n\n    Status mismatch: Expected 400 got 500\n\n  ● student › 1 › PATCH;;0;;/Student/{resource:id};;NEGATIVE › 0::PATCH;;0;;/Student/{resource:id};;NEGATIVE\n\n    Status mismatch: Expected 404 got 200\n\n  ● student › 1 › PATCH;;0;;/Student/{resource:id};;DESTRUCTIVE › 0::PATCH;;0;;/Student/{resource:id};;DESTRUCTIVE\n\n    Status mismatch: Expected 400 got 500\n\n  ● student › 1 › PUT;;1;;/Student/{resource:id};;POSITIVE › 0::PUT;;1;;/Student/{resource:id};;POSITIVE\n\n    Response bodies did not match\n",
+            "name": "/home/yash/Desktop/nirikshak/packages/simple-example/__tests__/student/student.test.ts",
+            "startTime": 1591856974630,
+            "status": "failed",
+            "summary": ""
+        }
+    ],
+    "wasInterrupted": false
+}

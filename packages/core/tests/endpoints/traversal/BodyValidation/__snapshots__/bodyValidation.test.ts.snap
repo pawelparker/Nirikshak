@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Validate body Invalid entry: 0 1`] = `[Error: Invalid resource instance path: non.existent]`;
+
+exports[`Validate body Invalid entry: 1 1`] = `[Error: Resource string resource:ages resolved to non primitive value]`;
+
+exports[`Validate body Invalid entry: 3 1`] = `[Error: function: custom:color, args: ]`;
+
+exports[`Validate body Invalid entry: 4 1`] = `[Error: Non literal type value from custom:invalid]`;
+
+exports[`Validate body Invalid entry: 4 2`] = `[Error: Could not find traversal helper function: custom:color, args: ]`;
+
+exports[`Validate body Invalid entry: 5 1`] = `[Error: function: custom:invalid, args:  did not return a boolean value]`;

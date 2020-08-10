@@ -1,0 +1,3773 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 1 1`] = `
+Object {
+  "ages": "Swedish Krona",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "c": Object {},
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 2 1`] = `
+Object {
+  "ages": "Row",
+  "names": Object {
+    "c": Object {},
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 3 1`] = `
+Object {
+  "ages": "deposit",
+  "city": null,
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 4 1`] = `
+Object {
+  "ages": "Keys",
+  "names": Object {
+    "c": Object {},
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 5 1`] = `
+Object {
+  "ages": "Configuration",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "c": Object {},
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 6 1`] = `
+Object {
+  "ages": "distributed",
+  "city": Array [],
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 7 1`] = `
+Object {
+  "ages": "parse",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 8 1`] = `
+Object {
+  "ages": "Realigned",
+  "names": Object {
+    "c": 3,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 9 1`] = `
+Object {
+  "ages": "scale",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 0, iteration: 10 1`] = `
+Object {
+  "ages": "systemic",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 1 1`] = `
+Object {
+  "ages": "Surinam Dollar",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 2 1`] = `
+Object {
+  "ages": "azure",
+  "city": null,
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 3 1`] = `
+Object {
+  "ages": "copy",
+  "names": Object {
+    "c": 2,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 4 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 5 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 6 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 7 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 8 1`] = `
+Object {
+  "ages": "platforms",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 9 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 1, iteration: 10 1`] = `
+Object {
+  "ages": "Principal",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 1 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 2 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 3 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 4 1`] = `
+Array [
+  Object {
+    "ages": "Kids",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "executive",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 5 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 6 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 7 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 8 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 9 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 2, iteration: 10 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 1 1`] = `
+Array [
+  Object {
+    "ages": "Concrete",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "copy",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Practical Cotton Towels",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Gloves",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Small Wooden Shirt",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Central",
+    "names": Object {
+      "c": 4,
+    },
+  },
+  Object {
+    "ages": "Integrated",
+    "city": null,
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Auto Loan Account",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "initiatives",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Administrator",
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 2 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 3 1`] = `
+Array [
+  Object {
+    "ages": "Plastic",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Metal",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Virgin Islands, British",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 4 1`] = `
+Array [
+  Object {
+    "ages": "Engineer",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 5 1`] = `
+Array [
+  Object {
+    "ages": "Pants",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "haptic",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Wooden",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "payment",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "calculating",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "transparent",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": 3,
+    },
+  },
+  Object {
+    "ages": "neural",
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "infrastructures",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 6 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 7 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 8 1`] = `
+Array [
+  Object {
+    "ages": "iterate",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Mills",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Chief",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Accounts",
+    "city": Array [],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "SSL",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "array",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "synthesizing",
+    "names": Object {
+      "c": 1,
+    },
+  },
+  Object {
+    "ages": "Licensed Wooden Table",
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 9 1`] = `
+Array [
+  Object {
+    "ages": "Palestinian Territory",
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 3, iteration: 10 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 1 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 2 1`] = `
+Array [
+  Object {
+    "ages": "explicit",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "invoice",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "New Mexico",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "infrastructures",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": 1,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 3 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 4 1`] = `
+Array [
+  Object {
+    "ages": "Parks",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Mountain",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 5 1`] = `
+Array [
+  Object {
+    "ages": "invoice",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "exploit",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "compelling",
+    "names": Object {
+      "c": 4,
+    },
+  },
+  Object {
+    "ages": "Personal Loan Account",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Buckinghamshire",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 6 1`] = `
+Array [
+  Object {
+    "ages": "mint green",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Producer",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Checking Account",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "dynamic",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 7 1`] = `
+Array [
+  Object {
+    "ages": "Home Loan Account",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Rwanda Franc",
+    "names": Object {
+      "c": Object {
+        "addresses": Array [
+          "faker:random.address",
+        ],
+      },
+    },
+  },
+  Object {
+    "ages": "Bedfordshire",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "multi-byte",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Isle of Man",
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "HDD",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Focused",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 8 1`] = `Array []`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 9 1`] = `
+Array [
+  Object {
+    "ages": "Future",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": 1,
+    },
+  },
+  Object {
+    "ages": "Proactive",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Berkshire",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Metal",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 4, iteration: 10 1`] = `
+Array [
+  Object {
+    "ages": "Auto Loan Account",
+    "city": null,
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "bottom-line",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Plastic",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Croatian Kuna",
+    "names": Object {
+      "c": 1,
+    },
+  },
+  Object {
+    "ages": "Arizona",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 1 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 2 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 3 1`] = `
+Object {
+  "ages": "high-level",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "c": Object {
+      "addresses": null,
+    },
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 4 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 5 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 6 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 7 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 8 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 9 1`] = `
+Object {
+  "ages": "Down-sized",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 5, iteration: 10 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 1 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 2 1`] = `
+Object {
+  "ages": "ADP",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 3 1`] = `
+Object {
+  "ages": "bypassing",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 4 1`] = `
+Object {
+  "ages": "bypass",
+  "city": null,
+  "names": Object {
+    "c": Object {},
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 5 1`] = `
+Object {
+  "ages": "card",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 6 1`] = `
+Object {
+  "ages": "Ergonomic Wooden Table",
+  "names": Object {
+    "c": Object {},
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 7 1`] = `
+Object {
+  "ages": "system",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 8 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 9 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 6, iteration: 10 1`] = `
+Object {
+  "ages": "Latvia",
+  "city": null,
+  "names": Object {
+    "c": Object {
+      "addresses": Array [
+        "faker:random.address",
+        "faker:random.address",
+        "faker:random.address",
+        "faker:random.address",
+        "faker:random.address",
+        "faker:random.address",
+      ],
+    },
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 1 1`] = `
+Object {
+  "ages": "Paradigm",
+  "city": null,
+  "names": Object {
+    "c": 4,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 2 1`] = `
+Object {
+  "ages": "Buckinghamshire",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 3 1`] = `
+Object {
+  "ages": "project",
+  "names": Object {
+    "c": Object {
+      "addresses": null,
+    },
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 4 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 5 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 6 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 7 1`] = `
+Object {
+  "ages": "Bedfordshire",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 8 1`] = `
+Object {
+  "ages": "Computers",
+  "names": Object {
+    "c": 3,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 9 1`] = `
+Object {
+  "ages": "Brazil",
+  "city": null,
+  "names": Object {
+    "c": 4,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 7, iteration: 10 1`] = `null`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 1 1`] = `
+Object {
+  "ages": "invoice",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 2 1`] = `
+Object {
+  "ages": "Borders",
+  "names": Object {
+    "c": 2,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 3 1`] = `
+Object {
+  "ages": "Plastic",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 4 1`] = `
+Object {
+  "ages": "Taka",
+  "city": null,
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 5 1`] = `
+Object {
+  "ages": "alarm",
+  "names": Object {
+    "c": 1,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 6 1`] = `
+Object {
+  "ages": "generating",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 7 1`] = `
+Object {
+  "ages": "Granite",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "c": Object {
+      "addresses": Array [
+        "faker:random.address",
+        "faker:random.address",
+        "faker:random.address",
+        "faker:random.address",
+      ],
+    },
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 8 1`] = `
+Object {
+  "ages": "Generic Rubber Chicken",
+  "city": null,
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 9 1`] = `
+Object {
+  "ages": "monetize",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 8, iteration: 10 1`] = `
+Object {
+  "ages": "Directives",
+  "city": null,
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 1 1`] = `
+Array [
+  Object {
+    "ages": "Fantastic",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "virtual",
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "Solutions",
+    "city": null,
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "green",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Cloned",
+    "names": Object {
+      "c": 3,
+    },
+  },
+  Object {
+    "ages": "Heights",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {
+        "addresses": Array [
+          "faker:random.address",
+          "faker:random.address",
+          "faker:random.address",
+          "faker:random.address",
+          "faker:random.address",
+        ],
+      },
+    },
+  },
+  Object {
+    "ages": "cyan",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "port",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 2 1`] = `
+Array [
+  Object {
+    "ages": "one-to-one",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Consultant",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "leverage",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Intelligent",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "North Carolina",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 3 1`] = `
+Array [
+  Object {
+    "ages": "Avon",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "transmitting",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Chair",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Skyway",
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "Automotive",
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+  Object {
+    "ages": "Fully-configurable",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 4 1`] = `
+Array [
+  Object {
+    "ages": "Sleek Metal Car",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Street",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 5 1`] = `
+Array [
+  Object {
+    "ages": "Outdoors",
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 6 1`] = `
+Array [
+  Object {
+    "ages": "Garden",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "haptic",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Shoes",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Dynamic",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 7 1`] = `
+Array [
+  Object {
+    "ages": "expedite",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Checking Account",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Chair",
+    "names": Object {
+      "c": 1,
+    },
+  },
+  Object {
+    "ages": "Kiribati",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "orchid",
+    "names": Object {
+      "c": 4,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 8 1`] = `
+Array [
+  Object {
+    "ages": "Officer",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "benchmark",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 9 1`] = `
+Array [
+  Object {
+    "ages": "bandwidth",
+    "city": null,
+    "names": Object {
+      "c": Object {
+        "addresses": Array [
+          "faker:random.address",
+          "faker:random.address",
+          "faker:random.address",
+          "faker:random.address",
+        ],
+      },
+    },
+  },
+  Object {
+    "ages": "adapter",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "SDD",
+    "city": null,
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "Track",
+    "city": Array [],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Awesome",
+    "city": null,
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Practical Fresh Cheese",
+    "names": Object {
+      "c": 3,
+    },
+  },
+  Object {
+    "ages": "Generic",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "virtual",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 9, iteration: 10 1`] = `
+Array [
+  Object {
+    "ages": "Soft",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "grey",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "navigating",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "content",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "experiences",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 1 1`] = `
+Array [
+  Object {
+    "ages": "innovative",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Marketing",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "customer loyalty",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Internal",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 2 1`] = `Array []`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 3 1`] = `
+Array [
+  Object {
+    "ages": "capacity",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Oklahoma",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Moroccan Dirham",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Squares",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "compress",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Credit Card Account",
+    "names": Object {
+      "c": 4,
+    },
+  },
+  Object {
+    "ages": "Fantastic Soft Salad",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Sleek Concrete Mouse",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 4 1`] = `Array []`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 5 1`] = `
+Array [
+  Object {
+    "ages": "Iranian Rial",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "frictionless",
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 6 1`] = `
+Array [
+  Object {
+    "ages": "web-enabled",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Fantastic",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Representative",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Solomon Islands Dollar",
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "online",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Switzerland",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Accountability",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "reintermediate",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "customer loyalty",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "withdrawal",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 7 1`] = `
+Array [
+  Object {
+    "ages": "GB",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Soap",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Senior",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "bypassing",
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "digital",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Wooden",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Bedfordshire",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 8 1`] = `
+Array [
+  Object {
+    "ages": "Credit Card Account",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "Handmade",
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "Licensed",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "utilisation",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 9 1`] = `
+Array [
+  Object {
+    "ages": "Salad",
+    "names": Object {
+      "c": Object {
+        "addresses": Array [
+          "faker:random.address",
+          "faker:random.address",
+        ],
+      },
+    },
+  },
+  Object {
+    "ages": "Cambridgeshire",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": 3,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 10, iteration: 10 1`] = `
+Array [
+  Object {
+    "ages": "Direct",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Pizza",
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "Investor",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Manager",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "holistic",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Burkina Faso",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Personal Loan Account",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "deposit",
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 1 1`] = `
+Array [
+  Object {
+    "ages": "violet",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "circuit",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "USB",
+    "names": Object {
+      "c": Object {
+        "addresses": Array [],
+      },
+    },
+  },
+  Object {
+    "ages": "teal",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "transmitting",
+    "city": Array [],
+    "names": Object {
+      "c": 2,
+    },
+  },
+  Object {
+    "ages": "Grocery",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "tangible",
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "Portugal",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 2 1`] = `
+Array [
+  Object {
+    "ages": "Soft",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Saint Barthelemy",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Cotton",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Buckinghamshire",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Engineer",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Trail",
+    "names": Object {
+      "c": Object {},
+    },
+  },
+  Object {
+    "ages": "Cambridgeshire",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "THX",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Analyst",
+    "names": Object {
+      "c": 4,
+    },
+  },
+  Object {
+    "ages": "Lane",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 3 1`] = `
+Array [
+  Object {
+    "ages": "users",
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+  Object {
+    "ages": "visualize",
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 4 1`] = `Array []`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 5 1`] = `Array []`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 6 1`] = `
+Array [
+  Object {
+    "ages": "violet",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Computer",
+    "city": null,
+    "names": Object {
+      "c": 4,
+    },
+  },
+  Object {
+    "ages": "Automotive",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Refined",
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "Automotive",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Generic",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "expedite",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+  Object {
+    "ages": "Incredible Granite Soap",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 7 1`] = `
+Array [
+  Object {
+    "ages": "deposit",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "support",
+    "city": null,
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 8 1`] = `
+Array [
+  Object {
+    "ages": "Metrics",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Sleek Plastic Bike",
+    "city": Array [],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Checking Account",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 9 1`] = `
+Array [
+  Object {
+    "ages": "circuit",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "US Dollar",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "circuit",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "auxiliary",
+    "city": null,
+    "names": Object {
+      "c": 5,
+    },
+  },
+  Object {
+    "ages": "Generic Wooden Table",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "Metal",
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "encryption",
+    "city": Array [],
+    "names": Object {
+      "c": 4,
+    },
+  },
+  Object {
+    "ages": "Gardens",
+    "names": Object {
+      "c": 4,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 11, iteration: 10 1`] = `
+Array [
+  Object {
+    "ages": "Computer",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "New Taiwan Dollar",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "sensor",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Bermuda",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "compressing",
+    "city": Array [],
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+  Object {
+    "ages": "Refined",
+    "city": null,
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "Future",
+    "city": Array [
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+      Object {
+        "city": "faker:random.city",
+        "zipCode": "faker:random.zipCode",
+      },
+    ],
+    "names": Object {
+      "a": true,
+    },
+  },
+  Object {
+    "ages": "e-business",
+    "city": Array [],
+    "names": Object {
+      "c": Object {
+        "addresses": null,
+      },
+    },
+  },
+  Object {
+    "ages": "withdrawal",
+    "names": Object {
+      "b": false,
+    },
+  },
+  Object {
+    "ages": "toolset",
+    "names": Object {
+      "a": true,
+    },
+  },
+]
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 1 1`] = `
+Object {
+  "ages": "deposit",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 2 1`] = `
+Object {
+  "ages": "Small",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 3 1`] = `
+Object {
+  "ages": "Michigan",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 4 1`] = `
+Object {
+  "ages": "online",
+  "city": null,
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 5 1`] = `
+Object {
+  "ages": "turquoise",
+  "city": null,
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 6 1`] = `
+Object {
+  "ages": "Marketing",
+  "names": Object {
+    "c": 4,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 7 1`] = `
+Object {
+  "ages": "intangible",
+  "names": Object {
+    "c": 3,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 8 1`] = `
+Object {
+  "ages": "tan",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 9 1`] = `
+Object {
+  "ages": "Gloves",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 12, iteration: 10 1`] = `
+Object {
+  "ages": "connecting",
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 1 1`] = `
+Object {
+  "ages": "Sausages",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 2 1`] = `
+Object {
+  "ages": "Tala",
+  "city": null,
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 3 1`] = `
+Object {
+  "ages": "generate",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 4 1`] = `
+Object {
+  "ages": "programming",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 5 1`] = `
+Object {
+  "ages": "Awesome",
+  "city": null,
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 6 1`] = `
+Object {
+  "ages": "e-business",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "c": 2,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 7 1`] = `
+Object {
+  "ages": "Infrastructure",
+  "city": null,
+  "names": Object {
+    "c": 3,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 8 1`] = `
+Object {
+  "ages": "Lane",
+  "names": Object {
+    "c": 3,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 9 1`] = `
+Object {
+  "ages": "circuit",
+  "city": null,
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 13, iteration: 10 1`] = `
+Object {
+  "ages": "Producer",
+  "city": null,
+  "names": Object {
+    "c": 2,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 1 1`] = `
+Object {
+  "ages": "Optimization",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "b": false,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 2 1`] = `
+Object {
+  "ages": "Ergonomic",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 3 1`] = `
+Object {
+  "ages": "e-commerce",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 4 1`] = `
+Object {
+  "ages": "navigating",
+  "city": Array [
+    Object {
+      "city": "faker:random.city",
+      "zipCode": "faker:random.zipCode",
+    },
+  ],
+  "names": Object {
+    "c": 4,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 5 1`] = `
+Object {
+  "ages": "Accounts",
+  "names": Object {
+    "c": 4,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 6 1`] = `
+Object {
+  "ages": "Baby",
+  "names": Object {
+    "c": Object {
+      "addresses": null,
+    },
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 7 1`] = `
+Object {
+  "ages": "Netherlands Antilles",
+  "city": null,
+  "names": Object {
+    "c": 2,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 8 1`] = `
+Object {
+  "ages": "Web",
+  "names": Object {
+    "c": 1,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 9 1`] = `
+Object {
+  "ages": "Valleys",
+  "names": Object {
+    "a": true,
+  },
+}
+`;
+
+exports[`Body type generation with modifiers Valid entry: 14, iteration: 10 1`] = `
+Object {
+  "ages": "Zloty",
+  "names": Object {
+    "a": true,
+  },
+}
+`;

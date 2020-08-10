@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`URL strings Invalid entry: 0 1`] = `[Error: Invalid resource instance path: orem.ipsum]`;
+
+exports[`URL strings Invalid entry: 1 1`] = `[Error: function: custom:lithium, args: ]`;
+
+exports[`URL strings Invalid entry: 2 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`URL strings Invalid entry: 3 1`] = `[Error: Invalid resource interpolation for url: resource:recursion.bases.args.plethora[3][0][2]]`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Figlet wraper Invalid input 1`] = `[Error: ENOENT: no such file or directory, open '/home/yash/Desktop/nirikshak/packages/cli/node_modules/figlet/fonts/Purpose.flf']`;
+
+exports[`Figlet wraper Valid input 1`] = `
+"  _                               ___                           
+ | |    ___  _ __ ___ _ __ ___   |_ _|_ __  ___ _   _ _ __ ___  
+ | |   / _ \\\\| '__/ _ \\\\ '_ \` _ \\\\   | || '_ \\\\/ __| | | | '_ \` _ \\\\ 
+ | |__| (_) | | |  __/ | | | | |  | || |_) \\\\__ \\\\ |_| | | | | | |
+ |_____\\\\___/|_|  \\\\___|_| |_| |_| |___| .__/|___/\\\\__,_|_| |_| |_|
+                                     |_|                        "
+`;

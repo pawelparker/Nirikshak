@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post method Description: 0 POST;;0;;/student;;POSITIVE 1`] = `[Error: Cannot create already existing resource in collection]`;

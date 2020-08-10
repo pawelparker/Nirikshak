@@ -1,0 +1,51 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "nirikshak/configuration",
+    "title": "Nirikshak Configuration",
+    "description": "Schema for nirikshak configuration",
+    "type": "object",
+    "properties": {
+        "app": {
+            "description": "Path to the API server",
+            "type": "string",
+            "minLength": 1
+        },
+        "dir": {
+            "description": "Directory to be used for keeping tests",
+            "type": "string",
+            "minLength": 1
+        },
+        "resources": {
+            "description": "Array of resources to be tested",
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+                "description": "Identifier for the resource, optionally mapped with directory",
+                "type": ["string", "object"],
+                "minLength": 1,
+                "properties": {
+                    "name": {
+                        "description": "Name of the resource",
+                        "type": "string",
+                        "minLength": 1
+                    },
+                    "dir": {
+                        "description": "Directory to be used for this resource (inside nikikshak directory)",
+                        "type": "string",
+                        "minLength": 1
+                    }
+                },
+                "required": ["name", "dir"]
+            }
+        },
+        "jestArgs": {
+            "description": "Arguments to be passed to jest at runtime",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+    "required": ["dir", "resources", "app"]
+}

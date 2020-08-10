@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Getting data from resource string Invalid input: 0 1`] = `"Invalid resource instance path: age"`;
+
+exports[`Getting data from resource string Invalid input: 1 1`] = `"Invalid resource instance path: addresses[4].city"`;
+
+exports[`Getting data from resource string Invalid input: 2 1`] = `"Invalid resource instance path: recursion.age"`;
+
+exports[`Getting data from resource string Invalid input: 3 1`] = `"Invalid resource instance path: recursion.bases.args.plethora[4][0][2][0]"`;

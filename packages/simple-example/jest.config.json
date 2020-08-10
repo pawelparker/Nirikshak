@@ -1,0 +1,17 @@
+{
+    "projects": [
+        {
+            "displayName": "student",
+            "testMatch": [
+                "<rootDir>/tests/student/**/*.test.ts"
+            ]
+        }
+    ],
+    "setupFilesAfterEnv": [
+        "./jest.setup.js"
+    ],
+    "reporters": [
+        "default",
+        "@nirikshak/reporter"
+    ]
+}

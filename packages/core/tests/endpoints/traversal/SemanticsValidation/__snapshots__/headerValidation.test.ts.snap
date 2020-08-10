@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header match Invalid entry: 0 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`Header match Invalid entry: 1 1`] = `[Error: function: custom:non.existent, args: ]`;
+
+exports[`Header match Invalid entry: 2 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;
+
+exports[`Header match Invalid entry: 3 1`] = `[Error: Invalid resource instance path: lorem.ipsum]`;

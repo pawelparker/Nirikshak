@@ -1,0 +1,11 @@
+{
+    "dir": "test",
+    "app": "index.ts",
+    "resources": [
+        {
+            "name": "dummy",
+            "dir": "dm"
+        },
+        "student"
+    ]
+}

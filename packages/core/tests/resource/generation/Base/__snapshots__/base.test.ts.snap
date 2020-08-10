@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Base type generation Invalid base: 0 1`] = `[Error: function: custom:stringer, args: ]`;
+
+exports[`Base type generation Invalid base: 1 1`] = `[Error: Non literal type value from custom:invalidHelper]`;

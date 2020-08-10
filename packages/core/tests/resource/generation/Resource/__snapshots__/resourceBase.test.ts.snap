@@ -1,0 +1,717 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Resource type Invalid resource base: 0 1`] = `[Error: function: custom:age, args: ]`;
+
+exports[`Resource type Invalid resource base: 1 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`Resource type resource base 0, iteration: 0 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "port",
+  "class": 69646,
+  "id": "Rufiyaa",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 1 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Handcrafted Cotton Soap",
+  "class": 24475,
+  "id": "Table",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 2 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Enterprise-wide",
+  "class": 37380,
+  "id": "invoice",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 3 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Configurable",
+  "class": 91669,
+  "id": "Manager",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 4 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "deliver",
+  "class": 38017,
+  "id": "Supervisor",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 5 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Gorgeous",
+  "class": 55204,
+  "id": "hub",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 6 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Gabon",
+  "class": 58063,
+  "id": "Technician",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 7 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Unions",
+  "class": 88694,
+  "id": "Small",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 8 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "needs-based",
+  "class": 81103,
+  "id": "withdrawal",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 0, iteration: 9 1`] = `
+Object {
+  "address": "faker.random.zipCode",
+  "branch": "Brand",
+  "class": 17151,
+  "id": "Kentucky",
+  "name": 15,
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 0 1`] = `
+Object {
+  "id": "mobile",
+  "root": Object {},
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 1 1`] = `
+Object {
+  "id": "withdrawal",
+  "root": Object {
+    "f2": Array [
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+    ],
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 2 1`] = `
+Object {
+  "id": "Palladium",
+  "root": Object {
+    "f1": Object {
+      "f3": "Sequi molestiae beatae enim necessitatibus molestiae.",
+    },
+    "f2": null,
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 3 1`] = `
+Object {
+  "id": "Cuba",
+  "root": Object {
+    "f1": Object {
+      "f3": Object {
+        "addresses": Array [
+          Object {
+            "city": "Millsburgh",
+            "street": Object {
+              "streetName": "Ronny Ramp",
+            },
+          },
+          Object {
+            "city": "West Adelia",
+            "street": "78211",
+          },
+          Object {
+            "city": "infomediaries Vatu",
+            "street": "05816",
+          },
+          Object {
+            "city": "South Jaclyn",
+            "street": Object {
+              "streetAddress": "045 Joel Groves",
+            },
+          },
+          Object {
+            "city": "New Rodger",
+            "street": "76135",
+          },
+        ],
+      },
+    },
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 4 1`] = `
+Object {
+  "id": "GB",
+  "root": Object {
+    "f2": null,
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 5 1`] = `
+Object {
+  "id": "Hong Kong Dollar",
+  "root": Object {
+    "f1": Object {
+      "f3": Object {
+        "branch": "ECE",
+        "section": "RebecaSteuber",
+      },
+    },
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 6 1`] = `
+Object {
+  "id": "bus",
+  "root": Object {
+    "f1": Object {
+      "f3": "Occaecati veniam ut exercitationem voluptatibus error.
+Porro error sint aut aliquid.",
+    },
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 7 1`] = `
+Object {
+  "id": "Practical Steel Cheese",
+  "root": Object {
+    "f2": null,
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 8 1`] = `
+Object {
+  "id": "Table",
+  "root": Object {
+    "f1": Object {
+      "f3": Object {},
+    },
+    "f2": Array [
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+      Array [
+        1,
+        2,
+        3,
+        4,
+        "stirng",
+        false,
+        "faker:random.address",
+      ],
+    ],
+  },
+}
+`;
+
+exports[`Resource type resource base 1, iteration: 9 1`] = `
+Object {
+  "id": "generating",
+  "root": Object {
+    "f1": Object {
+      "f3": 17.885,
+    },
+  },
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 0 1`] = `
+Object {
+  "f1": 3,
+  "f2": Object {
+    "address": true,
+    "age": 12,
+    "name": 14,
+  },
+  "f3": true,
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "help-desk",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 1 1`] = `
+Object {
+  "f1": Array [
+    Array [
+      Array [
+        Array [
+          Array [
+            "custom.username",
+          ],
+        ],
+      ],
+    ],
+  ],
+  "f2": Object {
+    "branch": "CSE",
+  },
+  "f3": Object {
+    "age": null,
+  },
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "withdrawal",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 2 1`] = `
+Object {
+  "f1": Array [
+    "stringify",
+    19,
+    30,
+    19.542,
+  ],
+  "f2": Object {
+    "address": 62395,
+    "age": 12,
+    "name": 14,
+  },
+  "f3": Object {
+    "branch": 3,
+  },
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Vatu",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 3 1`] = `
+Object {
+  "f1": 3,
+  "f2": Object {
+    "branch": "CSE",
+  },
+  "f3": Object {
+    "age": null,
+  },
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Front-line",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 4 1`] = `
+Object {
+  "f1": 2,
+  "f2": Object {
+    "branch": "CSE",
+  },
+  "f3": Object {
+    "branch": 3,
+  },
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Baby",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 5 1`] = `
+Object {
+  "f1": 35426,
+  "f2": Object {
+    "address": 12.4353,
+    "age": 12,
+    "name": 14,
+  },
+  "f3": false,
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Moldova",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 6 1`] = `
+Object {
+  "f1": 1,
+  "f2": Object {
+    "branch": "CSE",
+  },
+  "f3": Object {
+    "age": null,
+  },
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Practical Steel Mouse",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 7 1`] = `
+Object {
+  "f1": 3,
+  "f2": Object {
+    "address": true,
+    "age": 12,
+    "name": 14,
+  },
+  "f3": false,
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "neural",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 8 1`] = `
+Object {
+  "f1": 1,
+  "f2": Object {
+    "address": null,
+    "age": 12,
+    "name": 14,
+  },
+  "f3": 12,
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Hill",
+}
+`;
+
+exports[`Resource type resource base 2, iteration: 9 1`] = `
+Object {
+  "f1": Array [
+    Array [
+      Array [
+        Array [
+          Array [
+            "custom.username",
+          ],
+        ],
+      ],
+    ],
+  ],
+  "f2": Object {
+    "address": 12.4353,
+    "age": 12,
+    "name": 14,
+  },
+  "f3": 12,
+  "f4": Array [
+    Object {
+      "name": "Name",
+      "surName": "Surname",
+    },
+  ],
+  "id": "Practical",
+}
+`;

@@ -1,0 +1,403 @@
+{
+    "GET": [
+        {
+            "url": "/Student/{resource:id}",
+            "input": {
+                "semantics": {}
+            },
+            "output": {
+                "POSITIVE": {
+                    "semantics": {
+                        "status": 200
+                    },
+                    "body": {
+                        "id": "resource:id",
+                        "branch": "resource:branch",
+                        "grade": "resource:grade",
+                        "addresses": "resource:addresses",
+                        "schooling": "resource:schooling",
+                        "collegeGPA": "resource:collegeGPA"
+                    }
+                },
+                "NEGATIVE": {
+                    "semantics": {
+                        "status": 404
+                    }
+                }
+            }
+        },
+        {
+            "url": "/Student/{resource:id}/v1",
+            "input": {
+                "semantics": {}
+            },
+            "output": {
+                "POSITIVE": [
+                    {
+                        "semantics": {
+                            "status": 200
+                        },
+                        "body": {
+                            "id": "resource:id",
+                            "branch": "resource:branch",
+                            "grade": "resource:grade",
+                            "addresses": "resource:addresses",
+                            "schooling": "resource:schooling",
+                            "collegeGPA": "resource:collegeGPA"
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 500
+                        },
+                        "body": {
+                            "id": "resource:id",
+                            "branch": "resource:branch",
+                            "grade": "resource:grade",
+                            "addresses": "resource:addresses",
+                            "schooling": "resource:schooling",
+                            "collegeGPA": "resource:collegeGPA"
+                        }
+                    }
+                ],
+                "NEGATIVE": {
+                    "semantics": {
+                        "status": 404
+                    }
+                }
+            }
+        }
+    ],
+    "DELETE": [
+        {
+            "url": "/Student/{resource:id}",
+            "input": {
+                "semantics": {}
+            },
+            "output": {
+                "POSITIVE": {
+                    "semantics": {
+                        "status": 200
+                    },
+                    "body": {
+                        "id": "resource:id",
+                        "branch": "resource:branch",
+                        "grade": "resource:grade",
+                        "addresses": "resource:addresses",
+                        "schooling": "resource:schooling",
+                        "collegeGPA": "resource:collegeGPA"
+                    }
+                },
+                "NEGATIVE": {
+                    "semantics": {
+                        "status": 404
+                    }
+                }
+            }
+        },
+        {
+            "url": "/Student/{resource:id}/v4",
+            "input": {
+                "semantics": {}
+            },
+            "output": {
+                "POSITIVE": {
+                    "semantics": {
+                        "status": 200
+                    },
+                    "body": {
+                        "id": "resource:id",
+                        "branch": "resource:branch",
+                        "grade": "resource:grade",
+                        "addresses": "resource:addresses",
+                        "schooling": "resource:schooling",
+                        "collegeGPA": "resource:collegeGPA"
+                    }
+                },
+                "NEGATIVE": [
+                    {
+                        "semantics": {
+                            "status": 404
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 409
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "POST": [
+        {
+            "url": "/Student",
+            "input": {
+                "semantics": {},
+                "body": {
+                    "id": "resource:id",
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                },
+                "destructiveBody": {
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                }
+            },
+            "output": {
+                "POSITIVE": {
+                    "semantics": {
+                        "status": 201
+                    },
+                    "body": {
+                        "id": "resource:id",
+                        "branch": "resource:branch",
+                        "grade": "resource:grade",
+                        "addresses": "resource:addresses",
+                        "schooling": "resource:schooling",
+                        "collegeGPA": "resource:collegeGPA"
+                    }
+                },
+                "NEGATIVE": [
+                    {
+                        "semantics": {
+                            "status": 409
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 200
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 201
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 202
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 210
+                        }
+                    }
+                ],
+                "DESTRUCTIVE": {
+                    "semantics": {
+                        "status": 400
+                    }
+                }
+            }
+        },
+        {
+            "url": "/Student/{resource:id}",
+            "input": {
+                "semantics": {},
+                "body": {
+                    "id": "resource:id",
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                },
+                "destructiveBody": {
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                }
+            },
+            "output": {
+                "POSITIVE": {
+                    "semantics": {
+                        "status": 201
+                    },
+                    "body": {
+                        "id": "resource:id",
+                        "branch": "resource:branch",
+                        "grade": "resource:grade",
+                        "addresses": "resource:addresses",
+                        "schooling": "resource:schooling",
+                        "collegeGPA": "resource:collegeGPA"
+                    }
+                },
+                "NEGATIVE": {
+                    "semantics": {
+                        "status": 409
+                    }
+                },
+                "DESTRUCTIVE": {
+                    "semantics": {
+                        "status": 400
+                    }
+                }
+            }
+        }
+    ],
+    "PATCH": {
+        "url": "/Student/{resource:id}",
+        "input": {
+            "semantics": {},
+            "body": {
+                "branch": {
+                    "optional": true,
+                    "field": {
+                        "branch": {
+                            "types": ["CSE", "ECE", "MECH", "ELECTRICAL"]
+                        }
+                    }
+                },
+                "grade": {
+                    "optional": true,
+                    "field": { "grade": "custom:grade" }
+                }
+            },
+            "destructiveBody": {
+                "graditate": "resource:grade"
+            }
+        },
+        "output": {
+            "POSITIVE": {
+                "semantics": {
+                    "status": 200
+                },
+                "body": "custom:patchMatcher"
+            },
+            "NEGATIVE": {
+                "semantics": {
+                    "status": 404
+                }
+            },
+            "DESTRUCTIVE": {
+                "semantics": {
+                    "status": 400
+                }
+            }
+        }
+    },
+    "PUT": [
+        {
+            "url": "/Student",
+            "input": {
+                "semantics": {},
+                "body": {
+                    "id": "resource:id",
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                },
+                "destructiveBody": {
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                }
+            },
+            "output": {
+                "POSITIVE": [
+                    {
+                        "semantics": {
+                            "status": 201
+                        },
+                        "body": {
+                            "id": "resource:id",
+                            "branch": "resource:branch",
+                            "grade": "resource:grade",
+                            "addresses": "resource:addresses",
+                            "schooling": "resource:schooling",
+                            "collegeGPA": "resource:collegeGPA"
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 200
+                        },
+                        "body": {
+                            "id": "resource:id",
+                            "branch": "resource:branch",
+                            "grade": "resource:grade",
+                            "addresses": "resource:addresses",
+                            "schooling": "resource:schooling",
+                            "collegeGPA": "resource:collegeGPA"
+                        }
+                    }
+                ],
+                "DESTRUCTIVE": {
+                    "semantics": {
+                        "status": 400
+                    }
+                }
+            }
+        },
+        {
+            "url": "/Student/{resource:id}",
+            "input": {
+                "semantics": {},
+                "body": {
+                    "id": "resource:id",
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                },
+                "destructiveBody": {
+                    "branch": "resource:branch",
+                    "grade": "resource:grade",
+                    "addresses": "resource:addresses",
+                    "schooling": "resource:schooling",
+                    "collegeGPA": "resource:collegeGPA"
+                }
+            },
+            "output": {
+                "POSITIVE": [
+                    {
+                        "semantics": {
+                            "status": 201
+                        },
+                        "body": {
+                            "id": "resource:id",
+                            "branch": "resource:branch",
+                            "grade": "resource:grade",
+                            "addresses": "resource:addresses",
+                            "schooling": "resource:schooling",
+                            "collegeGPA": "resource:collegeGPA"
+                        }
+                    },
+                    {
+                        "semantics": {
+                            "status": 200
+                        },
+                        "body": {
+                            "id": "resource:id",
+                            "branch": "resource:branch",
+                            "grade": "resource:grade",
+                            "addresses": "resource:addresses",
+                            "schooling": "resource:schooling",
+                            "collegeGPA": "resource:collegeGPA"
+                        }
+                    }
+                ],
+                "DESTRUCTIVE": {
+                    "semantics": {
+                        "status": 400
+                    }
+                }
+            }
+        }
+    ]
+}

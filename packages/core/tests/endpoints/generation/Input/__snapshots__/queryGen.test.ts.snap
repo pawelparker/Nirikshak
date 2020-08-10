@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Query type generation Invalid query entry: 0 1`] = `[Error: query: entry1:null resolved to null]`;
+
+exports[`Query type generation Invalid query entry: 1 1`] = `[Error: query: entry2:true,false,str,strstr, resolved to an array containing a null value]`;
+
+exports[`Query type generation Invalid query entry: 2 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;
+
+exports[`Query type generation Invalid query entry: 3 1`] = `[Error: function: custom:nonExistent, args: ]`;
+
+exports[`Query type generation Invalid query entry: 4 1`] = `[Error: Invalid resource instance path: lorem.ipsum]`;
+
+exports[`Query type generation Invalid query entry: 5 1`] = `[Error: Non literal type value from custom:invalidHelper]`;

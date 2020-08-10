@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Body with modifiers match Invalid body 0: 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`Body with modifiers match Invalid body 2: 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`Body with modifiers match Invalid body 3: 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;
+
+exports[`Body with modifiers match Invalid body 3: 2`] = `[Error: Invalid resource instance path: nonExistent]`;

@@ -1,0 +1,7 @@
+{
+    "dir": "__tests__",
+    "resources": [
+        "students"
+    ],
+    "app": "src/app.ts"
+}

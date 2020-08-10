@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header map generation Invalid header and status entry: 0 1`] = `[Error: Header: entry1 = null resolved to null value]`;
+
+exports[`Header map generation Invalid header and status entry: 1 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;
+
+exports[`Header map generation Invalid header and status entry: 2 1`] = `[Error: function: custom:nonExistent, args: ]`;
+
+exports[`Header map generation Invalid header and status entry: 3 1`] = `[Error: Invalid resource instance path: lorem.ipsum]`;
+
+exports[`Header map generation Invalid header and status entry: 4 1`] = `[Error: Non literal type value from custom:invalidHelper]`;

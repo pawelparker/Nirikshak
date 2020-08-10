@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Base type match Invalid base type entry: 0 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;
+
+exports[`Base type match Invalid base type entry: 1 1`] = `[Error: Invalid resource instance path: lorem.ipsum]`;
+
+exports[`Base type match Invalid base type entry: 2 1`] = `[Error: function: custom:nonExistentHelper, args: ]`;
+
+exports[`Base type match Invalid base type entry: 3 1`] = `[Error: Non literal type value from custom:invalidHelper]`;

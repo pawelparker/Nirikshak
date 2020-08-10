@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deleting already deleted resource DELETE;;0;;/student/{resource:id};;POSITIVE 1`] = `[Error: Cannot delete non existent resource from collection]`;

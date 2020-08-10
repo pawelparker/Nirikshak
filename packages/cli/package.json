@@ -1,0 +1,69 @@
+{
+    "name": "@nirikshak/cli",
+    "version": "0.0.0",
+    "description": "CLI for nirikshak",
+    "keywords": [
+        "nirikshak",
+        "REST",
+        "API",
+        "QA",
+        "testing"
+    ],
+    "author": "Yash Mahalwal <yashmahalwal@gmail.com>",
+    "homepage": "https://github.com/yashmahalwal/nirikshak/tree/master/packages/cli#readme",
+    "license": "MIT",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib",
+        "staticFiles"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yashmahalwal/nirikshak.git"
+    },
+    "scripts": {
+        "build": "rm -rf lib && tsc -p tsconfig.build.json",
+        "build:dev": "rm -rf lib && tsc -p tsconfig.watch.json",
+        "test": "cd ../.. && npm run test:cli",
+        "test:update": "cd ../.. && npm run test:cli -- -u",
+        "watch": "rm -rf lib && tsc --watch -p tsconfig.watch.json",
+        "lint": "cd ../.. && npm run lint:cli",
+        "format": "cd ../.. && npm run format:cli",
+        "commit": "cd ../.. && npm run commit"
+    },
+    "bin": {
+        "nirikshak": "lib/index.js"
+    },
+    "bugs": {
+        "url": "https://github.com/yashmahalwal/nirikshak/issues"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/figlet": "^1.2.0",
+        "@types/fs-extra": "^8.1.0",
+        "@types/lodash": "^4.14.155",
+        "@types/signale": "^1.4.1",
+        "@types/yargs": "^15.0.4",
+        "typescript": "^3.8.3"
+    },
+    "dependencies": {
+        "ajv": "^6.12.2",
+        "chalk": "^4.0.0",
+        "figlet": "^1.3.0",
+        "fs-extra": "^9.0.0",
+        "json-schema": "^0.2.5",
+        "lodash": "^4.17.15",
+        "signale": "^1.4.0",
+        "yargs": "^15.3.1"
+    },
+    "peerDependencies": {
+        "get-port": "^5.1.1",
+        "jest": "^26.1.0"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "dir": "nirikshak",
+    "resources": [
+        "student",
+        {
+            "dir": "faculty",
+            "name": "useful"
+        }
+    ],
+    "app": "app.ts",
+    "jestArgs": ["st1", "st2"]
+}

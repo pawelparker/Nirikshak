@@ -1,0 +1,7 @@
+{
+    "app": "index.ts",
+    "dir": "nirikshak",
+    "resources": [
+        "student"
+    ]
+}

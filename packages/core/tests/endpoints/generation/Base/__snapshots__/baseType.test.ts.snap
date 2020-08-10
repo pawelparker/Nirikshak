@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BaseType type generation Invalid entry: 0 1`] = `[Error: function: custom:nonExistent, args: ]`;
+
+exports[`BaseType type generation Invalid entry: 1 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`BaseType type generation Invalid entry: 2 1`] = `[Error: Invalid resource instance path: invalidPath]`;
+
+exports[`BaseType type generation Invalid entry: 3 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;

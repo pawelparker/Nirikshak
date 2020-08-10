@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Oneof type match Invalid oneof type : 0 1`] = `[Error: Invalid resource instance path: invalidField]`;
+
+exports[`Oneof type match Invalid oneof type : 1 1`] = `[Error: Resource string resource:addresses resolved to non primitive value]`;
+
+exports[`Oneof type match Invalid oneof type : 2 1`] = `[Error: Non literal type value from custom:invalidHelper]`;
+
+exports[`Oneof type match Invalid oneof type : 3 1`] = `[Error: function: custom:non.existent, args: ]`;

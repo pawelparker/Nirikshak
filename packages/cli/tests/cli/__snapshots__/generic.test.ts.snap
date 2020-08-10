@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Command output --help 1`] = `
+"[97m  _   _   _          _   _            _               _    [39m
+[97m | \\\\ | | (_)  _ __  (_) | | __  ___  | |__     __ _  | | __[39m
+[97m |  \\\\| | | | | '__| | | | |/ / / __| | '_ \\\\   / _\` | | |/ /[39m
+[97m | |\\\\  | | | | |    | | |   <  \\\\__ \\\\ | | | | | (_| | |   < [39m
+[97m |_| \\\\_| |_| |_|    |_| |_|\\\\_\\\\ |___/ |_| |_|  \\\\__,_| |_|\\\\_\\\\[39m
+[97m                                                           [39m
+[4m[1mTest your REST APIs with ease[22m[24m
+
+
+Usage: index.js <command> [options]
+
+Commands:
+  index.js init              Initialise nirikshak in the project
+  index.js add <name> [dir]  Add a resource to the project
+  index.js remove <name>     Remove a resource from the project
+  index.js run [name..]      Run tests for specified resources.
+
+Options:
+  --config, -c   path to the configuration file      [default: \\"nirikshak.json\\"]
+  --help, -h     Show help                                             [boolean]
+  --version, -v  Show version number                                   [boolean]
+
+Examples:
+  index.js init                 Initialises the project using configuration in
+                                nirikshak.json
+  index.js init -c config.json  Initialises the project using configuration in
+                                config.json
+  index.js add student          Adds files for a resource named student in
+                                student directory.
+  index.js add student myDir    Adds files for a resource named student in myDir
+                                directory.
+  index.js remove student       Remove the resource named student.
+"
+`;
+
+exports[`Command output --version 1`] = `
+"[97m  _   _   _          _   _            _               _    [39m
+[97m | \\\\ | | (_)  _ __  (_) | | __  ___  | |__     __ _  | | __[39m
+[97m |  \\\\| | | | | '__| | | | |/ / / __| | '_ \\\\   / _\` | | |/ /[39m
+[97m | |\\\\  | | | | |    | | |   <  \\\\__ \\\\ | | | | | (_| | |   < [39m
+[97m |_| \\\\_| |_| |_|    |_| |_|\\\\_\\\\ |___/ |_| |_|  \\\\__,_| |_|\\\\_\\\\[39m
+[97m                                                           [39m
+[4m[1mTest your REST APIs with ease[22m[24m
+
+
+0.0.0
+"
+`;
+
+exports[`Command output -h 1`] = `
+"[97m  _   _   _          _   _            _               _    [39m
+[97m | \\\\ | | (_)  _ __  (_) | | __  ___  | |__     __ _  | | __[39m
+[97m |  \\\\| | | | | '__| | | | |/ / / __| | '_ \\\\   / _\` | | |/ /[39m
+[97m | |\\\\  | | | | |    | | |   <  \\\\__ \\\\ | | | | | (_| | |   < [39m
+[97m |_| \\\\_| |_| |_|    |_| |_|\\\\_\\\\ |___/ |_| |_|  \\\\__,_| |_|\\\\_\\\\[39m
+[97m                                                           [39m
+[4m[1mTest your REST APIs with ease[22m[24m
+
+
+Usage: index.js <command> [options]
+
+Commands:
+  index.js init              Initialise nirikshak in the project
+  index.js add <name> [dir]  Add a resource to the project
+  index.js remove <name>     Remove a resource from the project
+  index.js run [name..]      Run tests for specified resources.
+
+Options:
+  --config, -c   path to the configuration file      [default: \\"nirikshak.json\\"]
+  --help, -h     Show help                                             [boolean]
+  --version, -v  Show version number                                   [boolean]
+
+Examples:
+  index.js init                 Initialises the project using configuration in
+                                nirikshak.json
+  index.js init -c config.json  Initialises the project using configuration in
+                                config.json
+  index.js add student          Adds files for a resource named student in
+                                student directory.
+  index.js add student myDir    Adds files for a resource named student in myDir
+                                directory.
+  index.js remove student       Remove the resource named student.
+"
+`;
+
+exports[`Command output -v 1`] = `
+"[97m  _   _   _          _   _            _               _    [39m
+[97m | \\\\ | | (_)  _ __  (_) | | __  ___  | |__     __ _  | | __[39m
+[97m |  \\\\| | | | | '__| | | | |/ / / __| | '_ \\\\   / _\` | | |/ /[39m
+[97m | |\\\\  | | | | |    | | |   <  \\\\__ \\\\ | | | | | (_| | |   < [39m
+[97m |_| \\\\_| |_| |_|    |_| |_|\\\\_\\\\ |___/ |_| |_|  \\\\__,_| |_|\\\\_\\\\[39m
+[97m                                                           [39m
+[4m[1mTest your REST APIs with ease[22m[24m
+
+
+0.0.0
+"
+`;

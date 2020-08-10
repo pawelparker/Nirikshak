@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checks error handling with yargs Invalid config path 1`] = `
+"[97m  _   _   _          _   _            _               _    [39m
+[97m | \\\\ | | (_)  _ __  (_) | | __  ___  | |__     __ _  | | __[39m
+[97m |  \\\\| | | | | '__| | | | |/ / / __| | '_ \\\\   / _\` | | |/ /[39m
+[97m | |\\\\  | | | | |    | | |   <  \\\\__ \\\\ | | | | | (_| | |   < [39m
+[97m |_| \\\\_| |_| |_|    |_| |_|\\\\_\\\\ |___/ |_| |_|  \\\\__,_| |_|\\\\_\\\\[39m
+[97m                                                           [39m
+[4m[1mTest your REST APIs with ease[22m[24m
+
+
+[31m✖ [39m [31m[4mfatal[24m    [39m YError: Error: /home/yash/Desktop/nirikshak/packages/cli/tests/cli/config.json: ENOENT: no such file or directory, open '/home/yash/Desktop/nirikshak/packages/cli/tests/cli/config.json' [90m[39m
+[90m    at Object.parseArgs [as _parseArgs] (/home/yash/Desktop/nirikshak/packages/cli/node_modules/yargs/yargs.js:1232:33)[39m
+[90m    at Object.parse (/home/yash/Desktop/nirikshak/packages/cli/node_modules/yargs/yargs.js:599:25)[39m
+[90m    at /home/yash/Desktop/nirikshak/packages/cli/lib/index.js:83:14[39m
+[90m    at Generator.next (<anonymous>)[39m
+[90m    at fulfilled (/home/yash/Desktop/nirikshak/packages/cli/lib/index.js:6:58)[39m
+"
+`;

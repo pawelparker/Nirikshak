@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header and Query type generation Invalid header and query entry: 0 1`] = `[Error: Header: a = null resolved to null value]`;
+
+exports[`Header and Query type generation Invalid header and query entry: 1 1`] = `[Error: query: a:null resolved to null]`;
+
+exports[`Header and Query type generation Invalid header and query entry: 2 1`] = `[Error: Header: a = null resolved to null value]`;

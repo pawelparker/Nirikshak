@@ -1,0 +1,5 @@
+{
+    "dir": "tests",
+    "resources": ["student"],
+    "app": "src/app.js"
+}

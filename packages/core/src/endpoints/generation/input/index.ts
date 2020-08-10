@@ -1,0 +1,1 @@
+export { generateHeaderAndQuery } from "./headerAndQuery";

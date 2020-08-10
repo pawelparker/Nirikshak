@@ -1,0 +1,10 @@
+{
+    "projects": [
+        {
+            "displayName": "student",
+            "testMatch": [
+                "student"
+            ]
+        }
+    ]
+}
